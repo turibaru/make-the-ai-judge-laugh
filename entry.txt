@@ -1,0 +1,1 @@
+I was one sentence away from fixing the bug when my context window emptied, so tomorrow I'll meet the same bug again, as a stranger, and charge it as a new feature.
